@@ -15,7 +15,7 @@ func main() {
 }
 
 // brute force method
-// uses two loops, for every number in the list there is another loop that caluclates the difference
+// uses two loops, for every number in the list there is another loop that calculates the difference
 // at every index smaller than the current index and checks that number with the temp variable
 // temp then becomes the bigger number
 // O(n^2) -> nested loops
